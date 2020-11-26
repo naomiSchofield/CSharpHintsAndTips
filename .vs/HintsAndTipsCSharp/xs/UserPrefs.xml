@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BB7BEAC3-6B5E-4C24-85B2-BFDB54A099E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HintsAndTipsCSharp/Program.cs">
+    <Files>
+      <File FileName="HintsAndTipsCSharp/Program.cs" Line="18" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HintsAndTipsCSharp" expanded="True">
+            <Node name="HintsAndTipsCSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HintsAndTipsCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
